@@ -135,7 +135,7 @@ Done!
 1) Switch to the ERP user (or login as it) and change to home directory:
 
 ```sh
-  su erp
+  su - erp
   cd
 ```
 
